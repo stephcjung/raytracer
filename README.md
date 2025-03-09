@@ -4,4 +4,5 @@ Hi! This is my ray tracer code for my computer graphics course at Columbia Unive
 # Creative scene
 One of the coolest things about this project is that you can actually use it to make your own scenes!! The scene file can be found in [raytra_scene_file_format.pdf](raytra_scene_file_format.pdf), and you can use it to make your own images for the ray tracer to parse. One of the scene files I made, which can be found as `3--illumination-and-shading/olio/data/scenes/pink_totoro_astronaut.scn`, defines the sphere and triangle objects in the scene, along with their materials and lighting, and when parsed creates a pink Totoro astronaut!
 
-![Pink Totoro Astronaut](https://example.com/image.png)
+![Pink Totoro Astronaut](https://raw.githubusercontent.com/stephcjung/raytracer/refs/heads/main/pink_totoro_astronaut.png)
+
